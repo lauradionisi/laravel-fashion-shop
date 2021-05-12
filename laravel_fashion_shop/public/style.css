@@ -1,0 +1,12 @@
+.dresses-container {
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.dress {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(70, 70, 175);
+}
